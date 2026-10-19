@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!-- saved from url=(0065)file:///C:/Users/Ashritha/.vscode/project%20html/index.html#about -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name Portfolio</title>
+    <link rel="stylesheet" href="./2_files/style.css">
+</head>
+<body>
+    <!-- Keep this Header and Navigation -->
+    <header>
+        <div class="logo">Ashritha</div>
+        <nav>
+            <a href="file:///C:/Users/Ashritha/.vscode/project%20html/index.html#home">Home</a>
+            <a href="file:///C:/Users/Ashritha/.vscode/project%20html/index.html#about">About</a>
+            <a href="file:///C:/Users/Ashritha/.vscode/project%20html/index.html#skills">Skills</a>
+            <a href="file:///C:/Users/Ashritha/.vscode/project%20html/index.html#projects">Projects</a>
+            <a href="file:///C:/Users/Ashritha/.vscode/project%20html/index.html#contact">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Add your Home/Hero section here -->
+        <section id="home" class="hero">
+            <h1>Hi, I'm  Ashritha B M</h1>
+            <p>Aspiring Web Developer &amp; HTML/CSS Intern</p>
+            <p>Welcome to my personal portfolio website where I showcase my skills and academic projects.</p>
+            <a href="file:///C:/Users/Ashritha/.vscode/project%20html/index.html#projects" class="btn">View My Projects</a>
+        </section>
+        <!-- About Me Section -->
+    <section id="about" class="about">
+        <h2>About Me</h2>
+        <p>Detail-oriented BCA student at Kuvempu University (2024-2027) with a strong foundation in programming and web technologies. Seeking to apply database handling, web development, and problem-solving skills to real-world IT projects. Based in Chikmagalur, Karnataka, India.</p>
+    </section>
+   
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+        <h2>My Skills</h2>
+        <div class="skills-container">
+            <span class="skill-chip">HTML5 &amp; CSS3</span>
+            <span class="skill-chip">Python Programming</span>
+            <span class="skill-chip">DBMS &amp; SQL</span>
+            <span class="skill-chip">MS Office</span>
+            <span class="skill-chip">Problem Solving</span>
+        </div>
+    </section>
+
+    <!-- PASTE PROJECTS SECTION RIGHT HERE -->
+    <section id="projects" class="projects">
+        <h2>Projects</h2>
+        <div class="project-grid">
+            <article class="project-card">
+                <h3>Country &amp; Capital Information Webpage</h3>
+                <p>Developed a structured HTML5 webpage listing countries and their capitals, using custom CSS3 styling to visually emphasize key capital city data.</p>
+                <p><strong>Technologies:</strong> HTML5, CSS3</p>
+            </article>
+            <article <div="" class="project-card">
+    <h3>Interactive Form Validation System</h3>
+    <p>Designed a JavaScript-driven validation script to securely check and verify user inputs—including username presence, minimum 6-character password length, and 10-digit phone number formatting—with real-time alert handling.</p>
+    <p><strong>Technologies:</strong> HTML5, JavaScript, DOM Validation</p>
+</article></div> 
+            
+        
+    </section>
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <h2>Contact Me</h2>
+        <p>Feel free to reach out for internship opportunities or collaborations!</p>
+        <ul class="contact-list">
+            <li><strong>Email:</strong> ashrithamalathi@gmail.com</li>
+            <li><strong>Phone:</strong> +91 7019158782</li>
+            <li><strong>Location:</strong> Chikmagalur, Karnataka, India</li>
+        </ul>
+    </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Ashritha B M. All rights reserved.</p>
+    </footer>
+
+</body></html>
